@@ -1,7 +1,12 @@
 Come up with a team name!
+>Group 18 
+
 As a group, come up with some ways of defining and measuring "bestness". This doesn't have to be a serious metric, it could be whimsical or secretly "worstness.”
 Each group member will be responsible for one submetric each.
-Use at least 3 datasets in your argument. The easiest way to meet this requirement is for each member to choose their own unique dataset to analyze their submetric.
-Note that if you are working in a group of 2, you still need at least 3 datasets. One of you will have to analyze two datasets, or you will have to work together on analyzing a third dataset.
+> Community Centers
+> Wealth
+> Education 
+> Parks 
+
 Combine your submetrics into a single metric as you see fit.
 Create a git repository to store your data and notebooks and code.
